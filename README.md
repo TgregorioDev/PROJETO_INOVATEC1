@@ -1,2 +1,2 @@
 # PROJETO_INOVATEC
- projeto aplicativo "Localizei"
+Protótipo aplicativo "Localizei".
